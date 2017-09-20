@@ -1,0 +1,2 @@
+# Animals
+Giphy API HW
